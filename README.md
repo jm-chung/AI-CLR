@@ -10,7 +10,7 @@ This is an official source code for implementing AI-CLR.
 3) Construction of an interactive topic evolution map
 
 ### Dataset
-- We employed public dataset provided by PapersWithCode [LINK](https://paperswithcode.com/about).
+- We employed public dataset provided by PapersWithCode ([LINK](https://paperswithcode.com/about)).
 
 ### Code
 - Codes will be available soon!
