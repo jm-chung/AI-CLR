@@ -1,6 +1,6 @@
 # AI-CLR
 
-## Implementation of "Harnessing language models for emerging AI landscaping: A new computational literature review approach"
+## Implementation of "Harnessing language models for computational literature review of emerging AI topics"
 This is an official source code for implementing AI-CLR.
 
 
@@ -19,7 +19,7 @@ This is an official source code for implementing AI-CLR.
 If you find the codes useful, please cite our paper:
 
 ```
-title = "Harnessing language models for emerging AI landscaping: A new computational literature review approach",
+title = "Harnessing language models for computational literature review of emerging AI topics",
 authors = ,
 journal = "",
 year = ,
