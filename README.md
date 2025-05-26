@@ -20,9 +20,9 @@ This is an official source code for implementing AI-CLR.
 If you find the codes useful, please cite our paper:
 
 ```
-title = "Harnessing language models for computational literature review of emerging AI topics",
-authors = Jaemin Chung, Byeongki Jeong, Young-Jae Park, Hwihun Jeong, Jiho Lee, Janghyeok Yoon, & Jaewoong Choi,
-journal = "Information Processing & Management",
-year = ,
+title = "Harnessing language models for computational literature review of emerging AI topics"
+authors = Jaemin Chung, Byeongki Jeong, Young-Jae Park, Hwihun Jeong, Jiho Lee, Janghyeok Yoon, & Jaewoong Choi
+journal = "Information Processing & Management"
+year = 
 doi = ""
 ```
